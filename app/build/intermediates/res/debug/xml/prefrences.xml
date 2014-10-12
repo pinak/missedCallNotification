@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_sender"
+        android:title="@string/pref_sender"
+        android:summary="@string/pref_sender_summ"
+        android:defaultValue="@string/pref_sender_defaultValue"/>
+
+    <EditTextPreference
+        android:key="pref_regex"
+        android:title="@string/pref_regex"
+        android:summary="@string/pref_regex_summ"
+        android:defaultValue="@string/pref_regex_defaultValue"/>
+
+</PreferenceScreen><!-- From: file:/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/xml/prefrences.xml -->

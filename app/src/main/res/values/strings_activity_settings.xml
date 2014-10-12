@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_activity_settings">"Settings"</string>
+
+    <string name="pref_sender">Sender</string>
+    <string name="pref_sender_summ">Set the phone number of missed call service</string>
+    <string name="pref_sender_defaultValue">+919464310553</string>
+
+    <string name="pref_regex">Regular Expression</string>
+    <string name="pref_regex_summ">Regular expression to extract caller number</string>
+    <string name="pref_regex_defaultValue">from\\s(\\d+).*</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Missed Call Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_state">Application State</string>
+    <string name="notification_title">Missed Call</string>
+    <string name="call_action">Call</string>
+    <string name="sms_action">Sms</string>
+
+</resources>

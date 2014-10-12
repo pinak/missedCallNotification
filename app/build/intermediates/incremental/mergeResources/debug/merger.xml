@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="call_action" >Call
+                </string>
+                <string name="app_name" >Missed Call Notification
+                </string>
+                <string name="sms_action" >Sms
+                </string>
+                <string name="switch_state" >Application State
+                </string>
+                <string name="notification_title" >Missed Call
+                </string>
+            </file>
+            <file
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                name="main"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="activity_main"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/layout/fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_action_call"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-hdpi/ic_action_call.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_call"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xhdpi/ic_action_call.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_call"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xxhdpi/ic_action_call.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_call"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-mdpi/ic_action_call.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/values/strings_activity_settings.xml"
+                qualifiers="" >
+                <string name="pref_regex_summ" >Regular expression to extract caller number
+                </string>
+                <string name="title_activity_settings" >"Settings"
+                </string>
+                <string name="pref_regex" >Regular Expression
+                </string>
+                <string name="pref_sender" >Sender
+                </string>
+                <string name="pref_sender_summ" >Set the phone number of missed call service
+                </string>
+                <string name="pref_regex_defaultValue" >from\\s(\\d+).*
+                </string>
+                <string name="pref_sender_defaultValue" >+919464310553
+                </string>
+            </file>
+            <file
+                name="prefrences"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/xml/prefrences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="ic_action_email"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xxhdpi/ic_action_email.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_email"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-hdpi/ic_action_email.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_email"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-mdpi/ic_action_email.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_email"
+                path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/main/res/drawable-xhdpi/ic_action_email.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+        </source>
+        <source path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/build/generated/res/rs/debug" />
+        <source path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/pinak/android/AndroidStudioProjects/TATADocomoVoicemail/app/src/debug/res" />
+    </dataSet>
+
+</merger>
